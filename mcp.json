@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "github_docs": {
+			"type": "streamable-http",
+			"url": "https://api.githubcopilot.com/mcp/x/github_support_docs_search/readonly"
+		},
+		"microsoft_docs": {
+			"type": "streamable-http",
+			"url": "https://learn.microsoft.com/api/mcp"
+		},
+		"claude-code-docs": {
+			"type": "streamable-http",
+			"url": "https://code.claude.com/docs/mcp"
+		},
+		"openai-docs": {
+			"type": "streamable-http",
+			"url": "https://developers.openai.com/mcp"
+		},
+		"io.github.upstash/context7": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"@upstash/context7-mcp@4.0.4"
+			]
+		}
+  }
+}

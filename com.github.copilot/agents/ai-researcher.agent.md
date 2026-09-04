@@ -1,0 +1,1 @@
+../../agents/ai-researcher.agent.md
