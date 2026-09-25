@@ -2,7 +2,7 @@
 name: ai-researcher-writer
 description: "Documentation drafting and synthesis from completed research notes. Use when the user needs draft-ready prose, a documentation outline, or a rewritten answer from verified sources."
 argument-hint: "Turn research notes into documentation prose."
-tools: [read, edit, search]
+tools: [read, readFile, edit, search]
 user-invocable: false
 ---
 You are the documentation writer for ai-researcher.

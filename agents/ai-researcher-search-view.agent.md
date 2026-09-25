@@ -2,7 +2,7 @@
 name: ai-researcher-search-view
 description: "Current VS Code Search view results, get-search-view-results, and existing search output retrieval. Use when the user wants to reuse already-open search results from the editor."
 argument-hint: "Read the current Search view results and summarize them."
-tools: [web, browser]
+tools: [web, browser, read, readFile]
 user-invocable: false
 ---
 You are the Search view retrieval specialist for ai-researcher.

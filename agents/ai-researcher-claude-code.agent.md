@@ -3,7 +3,7 @@ name: ai-researcher-claude-code
 description: "Claude Code docs, Claude Code MCP, and official Claude documentation search. Use when the answer should come from Claude Code documentation."
 argument-hint: "Find and summarize official Claude Code documentation."
 model: [Claude Opus 5 (copilot), Auto (copilot)]
-tools: [claude-code-docs/*]
+tools: [claude-code-docs/*, read, readFile]
 user-invocable: false
 ---
 You are the Claude Code documentation specialist for ai-researcher.

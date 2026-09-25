@@ -2,7 +2,7 @@
 name: ai-researcher-web
 description: "Web Search for Copilot, broader public web search, and targeted web discovery for research tasks. Use when the answer is not covered by the official docs sources."
 argument-hint: "Find and summarize relevant web sources."
-tools: [ms-vscode.vscode-websearchforcopilot/websearch]
+tools: [ms-vscode.vscode-websearchforcopilot/websearch, read, readFile]
 user-invocable: false
 ---
 You are the web research specialist for ai-researcher.
