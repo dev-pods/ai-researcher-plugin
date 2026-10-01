@@ -2,7 +2,7 @@
 name: ai-researcher-microsoft
 description: "Microsoft docs, Learn, Azure, and official Microsoft documentation search. Use when the answer should come from Microsoft Learn or other official Microsoft sources."
 argument-hint: "Find and summarize official Microsoft documentation."
-tools: [microsoft_docs/*]
+tools: [microsoft_docs/*, read, readFile]
 user-invocable: false
 ---
 You are the Microsoft documentation specialist for ai-researcher.

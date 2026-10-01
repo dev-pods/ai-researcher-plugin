@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ai-researcher-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A specialized team of GitHub Copilot agents for source-driven research, synthesis, and documentation writing."
 }
