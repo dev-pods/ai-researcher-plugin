@@ -1,0 +1,14 @@
+{
+  "name": "ai-researcher-plugin",
+  "owner": {
+    "name": "ai-researcher-plugin"
+  },
+  "plugins": [
+    {
+      "name": "ai-researcher-plugin",
+      "source": ".",
+      "description": "A specialized team of GitHub Copilot agents for source-driven research, synthesis, and documentation writing.",
+      "version": "1.0.1"
+    }
+  ]
+}

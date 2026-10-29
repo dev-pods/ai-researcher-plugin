@@ -14,9 +14,12 @@ Centralizar o fluxo de trabalho em um orquestrador chamado `ai-researcher` e sep
 
 Instale este plugin pelo ponto de entrada de Chat Plugins do VS Code:
 
-[![Install Chat Plugin VS Code](https://img.shields.io/badge/Install_Chat_Plugin-VS_Code-blue)](vscode://chat-plugin/install?source=dev-pods/ai-researcher-plugin)
+[![Instalar no VSCode](https://img.shields.io/badge/VS_Code-Instalar_Plugin-blue.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfdnNjb2RlMjwvdGl0bGU+PHBhdGggZD0iTTExLjcyLDE4LjY4NSw0LjgzNywyMy44NjksMiwyMi45MjIsOSwxNiwyLDkuMDc3LDQuODM3LDguMTNsNi44ODMsNS4xODQsMTEuNDMzLTExLjNMMzAsNC45MjJWMjcuMDc3bC02Ljg0NywyLjkwOVpNMTUuMjg3LDE2bDcuODY1LDUuOTIzVjEwLjA3NloiIHN0eWxlPSJmaWxsOiMwMDdhY2MiLz48L3N2Zz4=)](vscode://chat-plugin/install?source=dev-pods/ai-researcher-plugin&plugin=ai-researcher-plugin)
+[![Instalar no VSCode Insiders](https://img.shields.io/badge/VS_Code_Insiders-Instalar_Plugin-24BFA5.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfdnNjb2RlMjwvdGl0bGU+PHBhdGggZD0iTTExLjcyLDE4LjY4NSw0LjgzNywyMy44NjksMiwyMi45MjIsOSwxNiwyLDkuMDc3LDQuODM3LDguMTNsNi44ODMsNS4xODQsMTEuNDMzLTExLjNMMzAsNC45MjJWMjcuMDc3bC02Ljg0NywyLjkwOVpNMTUuMjg3LDE2bDcuODY1LDUuOTIzVjEwLjA3NloiIHN0eWxlPSJmaWxsOiMwMDdhY2MiLz48L3N2Zz4=)](vscode-insiders://chat-plugin/install?source=dev-pods/ai-researcher-plugin&plugin=ai-researcher-plugin)
 
-[![Install Chat Plugin VS Code Insiders](https://img.shields.io/badge/Install_Chat_Plugin-VS_Code_Insiders-24BFA5)](vscode-insiders://chat-plugin/install?source=dev-pods/ai-researcher-plugin)
+[![Instalar Marketplace no Copilot Desktop](https://img.shields.io/badge/Copilot_Desktop-Instalar_Marketplace-blue?logo=githubcopilot)](ghapp://plugins/marketplace/add?source=dev-pods/ai-researcher-plugin)
+[![Instalar no Copilot Desktop](https://img.shields.io/badge/Copilot_Desktop-Instalar_Plugin-blue?logo=githubcopilot)](ghapp://plugins/install?source=ai-researcher-plugin%40ai-researcher-plugin)
+
 
 ## Estrutura
 

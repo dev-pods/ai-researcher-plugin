@@ -1,1 +1,0 @@
-../../agents/ai-researcher-claude-code.agent.md
