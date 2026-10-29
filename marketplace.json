@@ -8,7 +8,7 @@
       "name": "ai-researcher-plugin",
       "source": ".",
       "description": "A specialized team of GitHub Copilot agents for source-driven research, synthesis, and documentation writing.",
-      "version": "1.0.1"
+      "version": "1.0.2"
     }
   ]
 }
